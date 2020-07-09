@@ -1,0 +1,16 @@
+{
+  "name": "uni-encrypt",
+  "version": "1.0.0",
+  "description": "基于 jsencrypt 修改 适用于 uni-app",
+  "main": "index.js",
+  "keywords": [
+    "uni-app",
+    "encrypt"
+  ],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ponjs/uni-encrypt"
+  }
+}
